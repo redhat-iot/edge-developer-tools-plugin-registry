@@ -1,0 +1,15 @@
+apiVersion: v2
+publisher: redhat-iot
+name: edge-developer-tools
+version: 0.1.0
+type: VS Code extension
+displayName: Edge Developer Tools
+title: Project Initializer by Red Hat
+description: A customizable extension for colorizing matching brackets
+icon: https://raw.githubusercontent.com/redhat-iot/edge-developer-tools-plugin-registry/master/redhat-edge-icon.svg
+repository: https://github.com/redhat-iot/edge-developer-tools-vscode
+category: Other
+firstPublicationDate: '2020-03-06'
+spec:
+  extensions:
+  - https://github.com/redhat-iot/edge-developer-tools-plugin-registry/blob/master/redhat-iot/edge-developer-tools/0.1.0/edge-developer-tools-0.0.1.vsix?raw=true
