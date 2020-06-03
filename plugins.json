@@ -1,0 +1,14 @@
+[
+    {
+      "id": "redhat-iot/edge-developer-tools",
+      "displayName": "Edge Developer Tools",
+      "version": "0.1.0",
+      "type": "VS Code extension",
+      "name": "edge-developer-tools",
+      "description": "A set of tools to make deploying edge applications to Openshift much easier",
+      "publisher": "CoenraadS",
+      "links": {
+        "self": "/edge-developer-tools-plugin-registry/redhat-iot/edge-developer-tools/0.1.0/meta.yaml"
+      }
+    }
+]
